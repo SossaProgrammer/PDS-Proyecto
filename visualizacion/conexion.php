@@ -1,5 +1,5 @@
 <?php
- $conexion = new mysqli ("sql10.freemysqlhosting.net","sql10341885","6RucvaXJCI","sql10341885");
+ $conexion = new mysqli ("sql10.freemysqlhosting.net","sql10344429","RZuaFb2mwy","sql10344429");
  if($conexion){
  }
  else{
